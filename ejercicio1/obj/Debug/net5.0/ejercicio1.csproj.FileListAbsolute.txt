@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ejercicio1.exe
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ejercicio1.deps.json
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ejercicio1.dll
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ref\ejercicio1.dll
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\bin\Debug\net5.0\ejercicio1.pdb
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.dll
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ref\ejercicio1.dll
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.pdb
+C:\Users\LENOVO\Desktop\Trabajadores_parte1\ejercicio1\obj\Debug\net5.0\ejercicio1.genruntimeconfig.cache
